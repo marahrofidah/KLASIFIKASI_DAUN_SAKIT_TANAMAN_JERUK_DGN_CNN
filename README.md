@@ -12,7 +12,9 @@ Proyek ini bertujuan untuk mengklasifikasikan kondisi daun tanaman jeruk, apakah
 ## STRUKTUR DATASET
 
 citrus-leaf-disease-image/
+
 └── Citrus Leaf Disease Image/
+
     ├── Black spot/
     ├── Canker/
     ├── Greening/
@@ -31,13 +33,9 @@ citrus-leaf-disease-image/
 └── Citrus Leaf Disease Image/
 
     ├── Black spot/
-    
     ├── Canker/
-    
     ├── Greening/
-    
     ├── Healthy/
-    
     └── Melanose/
 
 JALANKAN NOTEBOOK
